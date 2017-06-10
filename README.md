@@ -6,3 +6,5 @@ This will be my (zjglass) first foray into pygame, so it will also be a learning
 I fully intend to eventually upload this to the Google Play store, and lightly monetize it with unobtrusive ads.
 
 I am simultaneously looking into Kivy, so this project may eventually be ported to Kivy, if I can't find a reliable way to integrate Google Admob into a "Pygame Subset for Android" app.
+
+© 2017 ZACHARY GLASS ALL RIGHTS RESERVED
