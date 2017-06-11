@@ -1,0 +1,17 @@
+<menuScreen>:
+	BoxLayout:
+		orientation: 'vertical'
+
+		Button:
+			text: 'settings'
+			on_press: root.manager.current = 'settings'
+		Button:
+			text: 'credits'
+
+<settingsScreen>:
+	BoxLayout:
+		orientation: 'vertical'
+
+		Button:
+			text: 'back'
+			on_press: root.manager.current = 'menu'
